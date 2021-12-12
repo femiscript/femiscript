@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @femi-laizer
 - 👀 I’m interested in ...programming, software engineering
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...JavaScript, React, Node.js
 - 💞️ I’m looking to collaborate on ...problem solving projects
 - 📫 How to reach me ...femiscript@gmail.com
 
